@@ -167,9 +167,7 @@
               Contato
             </h1>
             <address>
-              <p><i class="fa fa-home pr-10"></i>Rua Francisco Cassimiro D'avila, 122</p>
-              <p><i class="fa fa-globe pr-10"></i>Fonte Grande, Contagem</p>
-              <p><i class="fa fa-mobile pr-10"></i>Telefones: (31) 3390-2389 / (31) 98594-8242 </p>
+              <p><i class="fa fa-mobile pr-10"></i>Telefones: (31) 98594-8242 </p>
               <p><i class="fa fa-envelope pr-10"></i>Email:   <a href="mailto:contato@jwaysistemas.com.br">contato@jwaysistemas.com.br</a></p>
             </address>
           </div>
@@ -219,7 +217,7 @@
             <div class="row">
                 <div class="col-md-8">
                   <div class="copyright">
-                    <p>&copy; Copyright 2016 - Jway Sistemas</p>
+                    <p>&copy; Copyright 2020 - Jway Sistemas</p>
                   </div>
                 </div>
             </div>
