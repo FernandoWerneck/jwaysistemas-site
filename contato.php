@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A Jway Sistemas é uma empresa pioneira em desenvolvimento de sistemas web, aplicativos mobile e consultoria nas mais diversas areas da TI.">
+    <meta name="author" content="Jway Sistemas">
+    <meta name="keywords" content="jway sistemas, desenvolvimento, consultoria, software, aplicativos, apps, sites, mobile, sintegra, sped, paf, ecf, daruma, java, web, android, ios, windows phone, startup">
+	<meta name="robots" content="index, follow">
+	
+    <link rel="shortcut icon" href="imagens/logo.png">
+
+    <title>
+      Jway Sistemas
+    </title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/theme.css" rel="stylesheet">
+    <link href="css/bootstrap-reset.css" rel="stylesheet">
+
+	<!-- Template Werneck -->
+    <link href="css/component.css" rel="stylesheet" type="text/css" >
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style-responsive.css" rel="stylesheet" />
+	
+	<!-- Animation -->
+    <link href="css/animate.css" rel="stylesheet" />
+	
+	<!-- FontAwesome -->
+    <link href="css/font-awesome.min.css" rel="stylesheet" />	
+	
+	<!-- FontFamilyLato -->
+    <link href='css/familylato.css' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 tooltipss and media queries -->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js">
+    </script>
+    <script src="js/respond.min.js">
+    </script>
+    <![endif]-->
+
+  </head>
+
+  <body>
+    <!--Cabeçalho logo jway e menu-->
+    <header class="head-section">
+				  
+        <div class="navbar navbar-default navbar-static-top container">
+	  
+			<div class="navbar-header">
+		  
+				<button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+
+                <a class="navbar-brand" href="index.html"><img src="imagens/logo.png" width="25%" height="25%" alt="Logo Jway Sistemas" /></a> 
+
+			</div>
+			
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li>
+						<a href="index.html">Início
+						</a>  
+					</li>
+				  
+                    <li>
+						<a href="sobre.html">Empresa
+						</a>
+					</li>
+				  
+			        <li>
+						<a href="servicos.html">Serviços
+						</a>
+					</li>
+					
+					<li>
+						<a href="produtos.html">Produtos
+						</a>
+					</li>
+				  
+				    <li>
+						<a href="contato.php">Contato
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+    </header>
+    <!--fim do cabeçalho-->
+
+	
+	
+    <!--Início-->
+    <div class="container">
+		<div class="row mar-b-50">
+			<div class="col-md-12">
+				<div class="text-center feature-head wow fadeInDown">
+					<h1 class="">Contato</h1><br><br>
+					<h3>  <a href="mailto:contato@jwaysistemas.com.br">contato@jwaysistemas.com.br</a></h3>
+					<h3>  (31) 3390-2389 / (31) 98594-8242</h3>
+
+				</div>
+
+			
+			</div>
+        </div>
+      </div>
+    </div>
+	<!--Fim-->
+	
+
+    <!--Início Ajuda-->
+    <div id="home-services">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h2>Precisando de ajuda?</h2>
+				</div>
+				
+			<div class="col-md-6">
+				<div class="h-service">
+					<div class="icon-wrap ico-bg round-fifty wow fadeInDown">
+						<i class="fa fa-question"></i>
+					</div>
+					<div class="h-service-content wow fadeInUp">
+						<h3> Dúvidas? entre em contato!</h3>
+						<p>Temos uma equipe de atendimento especializada pronta para responder.<br>
+							<a href="contato.php">Clique aqui!</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="h-service">
+					<div class="icon-wrap ico-bg round-fifty wow fadeInDown">
+						<i class="fa fa-h-square"></i>
+					</div>
+					<div class="h-service-content wow fadeInUp">
+						<h3>Precisa de suporte?</h3>
+						<p>Abra o chamado para atendimento técnico.<br>
+						<a href="suporte.php">Clique aqui!</a>
+						</p>
+					</div>
+				</div>
+			</div>
+          
+        </div>
+        <!-- /row -->
+
+      </div>
+      <!-- /container -->
+
+    </div>
+    <!-- Fim ajuda -->
+
+    <!--Início do rodapé contato e info Jway-->
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5 col-sm-3 address wow fadeInUp" data-wow-duration="2s" data-wow-delay=".1s">
+            <h1>
+              Contato
+            </h1>
+            <address>
+              <p><i class="fa fa-home pr-10"></i>Rua Francisco Cassimiro D'avila, 122</p>
+              <p><i class="fa fa-globe pr-10"></i>Fonte Grande, Contagem</p>
+              <p><i class="fa fa-mobile pr-10"></i>Telefones: (31) 3390-2389 / (31) 98594-8242 </p>
+              <p><i class="fa fa-envelope pr-10"></i>Email:   <a href="mailto:contato@jwaysistemas.com.br">contato@jwaysistemas.com.br</a></p>
+            </address>
+          </div>
+         
+          <div class="col-lg-5 col-sm-3 address wow fadeInUp" data-wow-duration="2s" data-wow-delay=".1s">
+            
+              <h1>
+                Nossa empresa
+              </h1>
+              <ul class="page-footer-list">
+                <li>
+                  <i class="fa fa-angle-right"></i>
+                  <a href="sobre.html">Sobre</a>
+                </li>
+				<li>
+                  <i class="fa fa-angle-right"></i>
+                  <a href="servicos.html">Serviços</a>
+                </li>
+				<li>
+                  <i class="fa fa-angle-right"></i>
+                  <a href="produtos.html">Produtos</a>
+                </li>
+                <li>
+                  <i class="fa fa-angle-right"></i>
+                  <a href="contato.php">Contato</a>
+                </li>
+              </ul>
+            
+          </div>
+          <div class="col-lg-3 col-sm-3">
+            <div class="text-footer wow fadeInUp" data-wow-duration="2s" data-wow-delay=".7s">
+              <h1>
+                
+              </h1>
+              <p>
+                
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- Fim do rodapé -->
+    <!-- Início rodapé menor -->
+    <footer class="footer-small">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                  <div class="copyright">
+                    <p>&copy; Copyright 2016 - Jway Sistemas</p>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Fim rodapé menor -->
+
+    <!-- js placed at the end of the document so the pages load faster
+	<script src="js/jquery.js">
+	</script>
+	-->
+    <script src="js/jquery-1.8.3.min.js">
+    </script>
+    <script src="js/bootstrap.min.js">
+    </script>
+	<script src="js/common-scripts.js">
+    </script>
+	
+    
+  </body>
+</html>
