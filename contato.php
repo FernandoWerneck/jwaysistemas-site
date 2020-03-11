@@ -102,7 +102,7 @@
 				<div class="text-center feature-head wow fadeInDown">
 					<h1 class="">Contato</h1><br><br>
 					<h3>  <a href="mailto:contato@jwaysistemas.com.br">contato@jwaysistemas.com.br</a></h3>
-					<h3>  (31) 3390-2389 / (31) 98594-8242</h3>
+					<h3>  (31) 98594-8242</h3>
 
 				</div>
 
